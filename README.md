@@ -1,5 +1,2 @@
-# Hello World !
-## I am the host of the website.
-# Hello GitHub !
-## But I know nothing...
-### Just for fun...
+# 这个已经被搞坏了
+## 请移步至 https://Tavarich.github.io
